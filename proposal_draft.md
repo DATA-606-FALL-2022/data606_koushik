@@ -7,7 +7,6 @@ Synthetic Face Generation, is gaining a lot of attraction in current days.
 
  Synthetic face generation has many applications like data augmentation for machine learning models, usage in anime or cartoons, creating social media influencers etc. The technology behind this is GANs which is short for Generative Adversarial Networks.
 Many firms and R&Ds started working on GANs extensively in recent days. Facebook is extensively working on this to use new faces in the metaverse. An artificially generated Instagram influencer named Miquela Sousa got over a million followers on Instagram before it was announced that she wasn't real.
-![image](https://user-images.githubusercontent.com/77987988/190865741-29124375-4751-417f-a55d-370f868bb20e.png)
 
  >"Until my conversation with Nikola, it seemed like an indisputable fact that Miquela wasn’t real" - quoted by a reporter from "The Cut"
  
