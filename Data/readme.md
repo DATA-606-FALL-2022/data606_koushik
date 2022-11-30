@@ -1,1 +1,9 @@
-
+To watch the generated images in the UI (user interface)
+Firstly download the folder PythonPro into your PC and open the terminal and run the command cd  c:/downloads/PythonPro
+Then run the command pip install tensorflow
+Then run pip install flask
+Then pip opencv-python 
+Then python main.py
+You will be able to see a link in the terminal, go through that and press submit.
+You can see the generated image by GAN model. 
+For every reload you can see a new generated image.
