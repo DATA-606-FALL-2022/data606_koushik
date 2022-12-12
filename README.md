@@ -10,7 +10,7 @@ Please find the 'Data' folder for backend UI code and docs.
 
 Initial EDA: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/initial_data_exploration.ipynb
 
-Machine Learning & Modeling: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/FinalProjectCode.ipynb
+Project Code : https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/FinalProjectCode.ipynb
 
 Link to Powerpoint Presentation of Project: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Synthetic%20Face%20Generation%20-%20Final%20Presentation.pptx 
 
