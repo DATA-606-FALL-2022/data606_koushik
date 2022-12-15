@@ -150,3 +150,8 @@ The project's goal is to develop a model that can generate faces that cannot be 
 — Improvements of hyper parameters will be performed.     
 — Using the generator, we will generate new images.     
 —  For evaluation purposes, we will use an internet-based model to predict whether the generated image is a human face or not.    
+
+
+_**12. References:**_
+
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
