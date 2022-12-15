@@ -1,3 +1,6 @@
+
+_**Steps to Run the UI:**_
+
 -- To view the generated images in UI (user interface).  
 -- Firstly download the folder PythonPro into your PC, Open the terminal window and run the command "cd  c:/downloads/PythonPro.   
 -- Subsequently, run the following commands one after the other to proceed:  
