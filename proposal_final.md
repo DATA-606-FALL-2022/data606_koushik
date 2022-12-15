@@ -143,10 +143,10 @@ The project's goal is to develop a model that can generate faces that cannot be 
 
 **_11. Tasks to be Performed:_**
 
-— The set of images will be loaded into numpy arrays.
-— We will preprocess the images to fit their resolution.
-— We'll build a GAN model and train it on the dataset we loaded.
-— We will train a discriminator to determine whether an image is real or generated.
-— Improvements of hyper parameters will be performed.
-— Using the generator, we will generate new images.
-—  For evaluation purposes, we will use an internet-based model to predict whether the generated image is a human face or not.
+— The set of images will be loaded into numpy arrays.     
+— We will preprocess the images to fit their resolution.    
+— We'll build a GAN model and train it on the dataset we loaded.    
+— We will train a discriminator to determine whether an image is real or generated.    
+— Improvements of hyper parameters will be performed.     
+— Using the generator, we will generate new images.     
+—  For evaluation purposes, we will use an internet-based model to predict whether the generated image is a human face or not.    
