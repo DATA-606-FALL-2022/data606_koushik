@@ -14,4 +14,6 @@ Project Code : https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/F
 
 Link to Powerpoint Presentation of Project: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Synthetic%20Face%20Generation%20-%20Final%20Presentation.pptx 
 
+Final Project Report: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Final%20Project%20Report.md
+
 Link to the Youtube video of Final Project Presentation: https://youtu.be/SE5UNEiwsPY
