@@ -20,9 +20,10 @@ It is very common in data science to encounter issues such as the dataset being 
   
   
 _**DATA COLLECTION:**_   
-• We obtained the dataset from "http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html"
-• It is called the celebA dataset and contains over 200,000 face images along with different tags.
-• The data is from a trusted source which is Multimedia lab from The Chinese University of Hong Kong. The data contains faces with over 38 different attributes:- 
+• We obtained the dataset from "http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html".  
+• It is called the celebA dataset and contains over 200,000 face images along with different tags.  
+• The data is from a trusted source which is Multimedia lab from The Chinese University of Hong Kong.  
+• The data contains faces with over 38 different attributes:-   
   
    • 5_o_Clock_Shadow.  
    • Arched_Eyebrows.  
@@ -88,6 +89,7 @@ _**DATA COLLECTION:**_
   _**MACHINE LEARNING MODEL: GAN (Generative Adversarial Network):**_ 
   
  <img width="510" alt="image" src="https://user-images.githubusercontent.com/77987988/207760514-fb852f46-d564-40ff-bcd6-226cf7b28c22.png"> 
+  
   Figure: Block Diagram of the GAN Architecture.   
  
   
@@ -101,9 +103,10 @@ _**DATA COLLECTION:**_
 • Both the generator and the discriminator are 2D convolution neural networks.    
   
   
- _**Model Architecture - Generator**_
+ _**MODEL ARCHITECTURE - GENERATOR:**_
   
 <img width="579" alt="Screenshot 2022-12-14 at 10 07 39 PM" src="https://user-images.githubusercontent.com/77987988/207763611-2c6f8f25-b283-4259-ad8a-e44b1f2184d1.png">
+  
 Figure: Implemented Generator Architure.
   
   
@@ -116,9 +119,10 @@ Figure: Implemented Generator Architure.
   
   
   
-  _**Model Architecture - Discriminator**_
+  _**MODEL ARCHITECTURE - DISCRIMINATOR:**_
 
   <img width="571" alt="Screenshot 2022-12-14 at 10 07 21 PM" src="https://user-images.githubusercontent.com/77987988/207763472-2736a502-5f7a-430e-9d55-51d2f25d3abb.png">
+  
 Figure: Implemented Discriminator Architure.
   
   
@@ -129,7 +133,7 @@ Figure: Implemented Discriminator Architure.
 • Then apply dense layers until we get one output neuron. 
   
   
-  _**Implementation - Tech stack used:**_
+  _**IMPLEMENTATION - Tech stack used:**_
   
 We used the following technologies to implement code for the GAN model:    
   
@@ -146,10 +150,11 @@ We used the following technologies to implement code for the GAN model:
   The output images that we generated through the trained GAN model are shown below:   
   
   <img width="338" alt="image" src="https://user-images.githubusercontent.com/77987988/207764940-1c310b17-91ef-4547-915f-c4709aa79970.png">
-Figure: GAN Processed Synthetic Images.
+  
+Figure: GAN Processed Synthetic Images.             
   
   
-  _**FUTURE SCOPE**_
+  _**FUTURE SCOPE:**_
   
 • As more hardware is available, more epochs can be performed to better convergence.    
 • More types of images could be added to get diverse faces.      
